@@ -1,0 +1,24 @@
+.inputData {
+  margin: auto;
+  font-size: 20px;
+  text-align: center;
+  padding: 50px 0;
+  line-height: 1.0em;
+}
+
+.submitButton {
+  margin: auto;
+  text-align: center;
+  width: 25%;
+}
+
+ul{
+  list-style-type: none; 
+}
+
+.outputData{
+  margin:auto;
+  font-size: 20px;
+  text-align: center;
+  padding: 50px 0;
+}
